@@ -1,3 +1,2 @@
 hello world
-hello universe
-hello India
+hello universe and India
